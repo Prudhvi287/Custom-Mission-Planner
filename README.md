@@ -25,7 +25,7 @@ This is the first module of a larger autonomy product developed for the *Technol
 
 ## AI Intelligence Panel Features
 
-- Navigation & Sensing — Sensor Fusion / SLAM / Slukier-Based
+- Navigation & Sensing — Sensor Fusion / SLAM
 - Obstacle Avoidance — Camera Vision / Dynamic Task Allocation
 - Path Planning — Real-Time Dynamic / Onboard Computation
 - Decision Making — LiDAR + Camera / Depth Awareness / Voxor
