@@ -82,8 +82,6 @@ cd Debug && ./QGroundControl
 | UI Framework | Qt 6.10.2 + QML + QtMultimedia |
 | Protocol | MAVLink 2.0 (PX4 / ArduPilot compatible) |
 | Build System | CMake 4.2 + Ninja + ccache + GCC 11.4 |
-| OS | Ubuntu 22.04 LTS |
-| Hardware | AMD Ryzen 7 + NVIDIA RTX 3050 Ti |
 
 ---
 
